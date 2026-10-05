@@ -1,0 +1,13 @@
+{
+  "name": "core-infinity-plugin-test1",
+  "version": "0.1.0",
+  "description": "一个测试插件：验证从 GitHub 装进来这一条路通不通。",
+  "keywords": ["core-infinity"],
+  "main": "index.py",
+  "license": "MIT",
+  "telyincore": {
+    "kind": "infinity",
+    "api": 1,
+    "displayName": "测试插件"
+  }
+}
